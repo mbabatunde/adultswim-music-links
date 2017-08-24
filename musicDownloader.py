@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-__author__ == "Mark Babatunde"
+__author__ = "Mark Babatunde"
 
 import urllib.request
 import json
